@@ -1,0 +1,40 @@
+﻿<Window x:Class="Space_Invaders.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Space_Invaders"
+        mc:Ignorable="d"
+        Title="Space Invaders Game"
+        Height="450"
+        Width="800"
+        Loaded="Window_Loaded"
+        SizeChanged="Window_SizeChanged">
+
+    <Grid>
+        <Canvas Name="myCanvas"
+                Focusable="True"
+                Background="Black"
+                KeyDown="KeyIsDown"
+                KeyUp="KeyIsUp"
+                Width="{Binding ActualWidth, RelativeSource={RelativeSource AncestorType=Window}}"
+                Height="{Binding ActualHeight, RelativeSource={RelativeSource AncestorType=Window}}">
+
+            <Label Name="EnemiesLeft"
+                   Foreground="White"
+                   FontSize="16"
+                   FontWeight="ExtraBold"
+                   Canvas.Left="10"
+                   Canvas.Top="10">
+                Enemies Left: 0
+            </Label>
+
+            <Rectangle Name="Player"
+                       Fill="White"
+                       Height="65"
+                       Width="55"
+                       Canvas.Left="375"
+                       Canvas.Top="350"/>
+        </Canvas>
+    </Grid>
+</Window>

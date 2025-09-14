@@ -1,0 +1,20 @@
+D:\NewFolder2\Space Invaders\bin\Debug\net9.0-windows\Space Invaders.exe
+D:\NewFolder2\Space Invaders\bin\Debug\net9.0-windows\Space Invaders.deps.json
+D:\NewFolder2\Space Invaders\bin\Debug\net9.0-windows\Space Invaders.runtimeconfig.json
+D:\NewFolder2\Space Invaders\bin\Debug\net9.0-windows\Space Invaders.dll
+D:\NewFolder2\Space Invaders\bin\Debug\net9.0-windows\Space Invaders.pdb
+D:\NewFolder2\Space Invaders\obj\Debug\net9.0-windows\MainWindow.g.cs
+D:\NewFolder2\Space Invaders\obj\Debug\net9.0-windows\App.g.cs
+D:\NewFolder2\Space Invaders\obj\Debug\net9.0-windows\Space Invaders_MarkupCompile.cache
+D:\NewFolder2\Space Invaders\obj\Debug\net9.0-windows\Space Invaders_MarkupCompile.lref
+D:\NewFolder2\Space Invaders\obj\Debug\net9.0-windows\MainWindow.baml
+D:\NewFolder2\Space Invaders\obj\Debug\net9.0-windows\Space Invaders.g.resources
+D:\NewFolder2\Space Invaders\obj\Debug\net9.0-windows\Space Invaders.GeneratedMSBuildEditorConfig.editorconfig
+D:\NewFolder2\Space Invaders\obj\Debug\net9.0-windows\Space Invaders.AssemblyInfoInputs.cache
+D:\NewFolder2\Space Invaders\obj\Debug\net9.0-windows\Space Invaders.AssemblyInfo.cs
+D:\NewFolder2\Space Invaders\obj\Debug\net9.0-windows\Space Invaders.csproj.CoreCompileInputs.cache
+D:\NewFolder2\Space Invaders\obj\Debug\net9.0-windows\Space Invaders.dll
+D:\NewFolder2\Space Invaders\obj\Debug\net9.0-windows\refint\Space Invaders.dll
+D:\NewFolder2\Space Invaders\obj\Debug\net9.0-windows\Space Invaders.pdb
+D:\NewFolder2\Space Invaders\obj\Debug\net9.0-windows\Space Invaders.genruntimeconfig.cache
+D:\NewFolder2\Space Invaders\obj\Debug\net9.0-windows\ref\Space Invaders.dll
